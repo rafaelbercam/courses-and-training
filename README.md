@@ -45,7 +45,7 @@ Repo dedicado a compartilhar cursos e treinamentos (gratuitos ou não) para dese
 - [Link para o curso](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - Descrição: O FreeCodeCamp oferece uma certificação em Algoritmos e Estruturas de Dados com JavaScript.  Este curso cobre os principais conceitos de JavaScript, incluindo tipos de dados, funções, objetos, estruturas de controle e algoritmos populares.
 
-### 3. MDN Web Docs - Aprendendo JavaScript
+### 3. MDN Web Docs - Aprendendo JavaScript (<font color="green">Gratuito</font>)
 - [Link para o curso](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
 - Descrição: A MDN Web Docs possui um extenso guia de aprendizado para JavaScript. O material é bem estruturado e abrange desde conceitos básicos até tópicos avançados, como manipulação do DOM e APIs.
 
